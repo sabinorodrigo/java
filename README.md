@@ -1,8 +1,4 @@
-# This repository is about Java programming language
+# Este repsositório é sobre a linguagem de programação Java
 
-## I'll condense all the knowlegde I obtain about java in this repository
-
-## What is Java?
-
-Java is a programming language and a platform
+## Java é uma liguagem de programação e uma plataforma
   
